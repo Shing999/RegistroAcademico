@@ -54,7 +54,7 @@ CalculadoraDeNota/
 1. Clonar el repositorio.
 
 ```bash
-git clone 
+git clone https://github.com/Shing999/RegistroAcademico.git
 ```
 
 2. Abrir el proyecto en NetBeans.
